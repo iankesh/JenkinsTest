@@ -1,0 +1,16 @@
+Started by user [8mha:////4N2pA/oFVMdE7YU4AiCjP61PKoa65qxMbmG7emVSEK/nAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /var/lib/jenkins/workspace/Git Backup
+[Git Backup] $ /bin/sh -xe /tmp/jenkins2140817354551520715.sh
++ pwd
+/var/lib/jenkins/workspace/Git Backup
++ cd /var/lib/jenkins/
++ ./git.sh
+fatal: Unable to create '/var/lib/jenkins/.git/index.lock': Permission denied
+fatal: Unable to create '/var/lib/jenkins/.git/index.lock': Permission denied
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

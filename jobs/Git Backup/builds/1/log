@@ -1,0 +1,7 @@
+Started by user [8mha:////4N2pA/oFVMdE7YU4AiCjP61PKoa65qxMbmG7emVSEK/nAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /var/lib/jenkins/workspace/Git Backup
+[Git Backup] $ /bin/sh -xe /tmp/jenkins6850156624088971262.sh
++ cd /root
+/tmp/jenkins6850156624088971262.sh: line 2: cd: /root: Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
