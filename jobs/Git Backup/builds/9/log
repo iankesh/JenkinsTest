@@ -1,0 +1,10 @@
+Started by user [8mha:////4N2pA/oFVMdE7YU4AiCjP61PKoa65qxMbmG7emVSEK/nAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /var/lib/jenkins/workspace/Git Backup
+[Git Backup] $ /bin/sh -xe /tmp/jenkins8229551619020326855.sh
++ cd /var/lib/jenkins
++ pwd
+/var/lib/jenkins
++ git add .
+fatal: Unable to create '/var/lib/jenkins/.git/index.lock': Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
